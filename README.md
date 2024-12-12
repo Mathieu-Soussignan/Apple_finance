@@ -120,3 +120,8 @@ Les résultats obtenus montrent que le modèle Prophet suit efficacement les ten
 ## **Notes pour les Collègues**
 - Si un problème survient lors de l’exécution, vérifiez d’abord que l’environnement virtuel est bien activé et que les dépendances sont installées.
 - En cas de question sur le fonctionnement d’un script, référez-vous aux commentaires inclus dans le code ou contactez le référent du projet.
+
+## **Contributeurs**
+-Mathieu Soussignan
+-Alan Jaffré
+-Ahmed Bahri
