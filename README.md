@@ -122,6 +122,6 @@ Les résultats obtenus montrent que le modèle Prophet suit efficacement les ten
 - En cas de question sur le fonctionnement d’un script, référez-vous aux commentaires inclus dans le code ou contactez le référent du projet.
 
 ## **Contributeurs**
--Mathieu Soussignan
--Alan Jaffré
--Ahmed Bahri
+- [Mathieu Soussignan](https://www.mathieu-soussignan.com).
+- Alan Jaffré.
+- Ahmed Bahri.
