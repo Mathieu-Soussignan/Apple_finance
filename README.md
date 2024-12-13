@@ -123,5 +123,5 @@ Les résultats obtenus montrent que le modèle Prophet suit efficacement les ten
 
 ## **Contributeurs**
 - [Mathieu Soussignan](https://www.mathieu-soussignan.com).
-- [Alan Jaffré](www.linkedin.com/in/alan-jaffré).
+- [Alan Jaffré](https:/www.linkedin.com/in/alan-jaffré).
 - [Ahmed Bahri](https://www.linkedin.com/in/bahri-amine/).
